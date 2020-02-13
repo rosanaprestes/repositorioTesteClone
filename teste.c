@@ -2,7 +2,12 @@
 # include<stdio.h>
 
 int main(){
-    print ("funciona...");
-}
+    printf ("funciona...");
+
+    int a = 0;
+
+    printf ("valor de ...");
+
 
 return 0;
+}
